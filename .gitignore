@@ -1,0 +1,8 @@
+# PROJECT
+#####################
+.project
+/client.php
+/composer.lock
+/.settings/*.prefs
+/.buildpath
+/vendor
